@@ -11,6 +11,7 @@ In this project, I have made the tweeter developer account to receive the tweets
 It will work on any OS. To run this program I installed intellij idea. You need to install java with version>=8. You need to install Redis, MongoDB, Kafka, and elastic-search. You can change the ports and other configurations from the application.properties file.
 
 ## To run the app
+Write your Twitter API tokens in src/main/resources/application.properties file.
 ### Steps
 
     1. Start Mongodb
